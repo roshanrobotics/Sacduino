@@ -9,7 +9,7 @@
       "platforms":
       [
         {
-          "name": "Sacduino AVR Boards",
+          "name": "Sacduino Boards",
           "architecture": "avr",
           "version": "1.6.7",
           "category": "Contributed",
@@ -19,10 +19,10 @@
           "size": "4202569",
           "boards": [
             {
-              "name": "Sacduino AVR Boards."
+              "name": "Sacduino Boards."
             },
  	    {
-              "name": "Sacduino nano"
+              "name": "Sacduino"
             }
           ],
           "toolsDependencies":
