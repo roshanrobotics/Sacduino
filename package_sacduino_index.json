@@ -1,0 +1,46 @@
+{
+  "packages":
+  [
+      {
+      "name": "Roshan M Gupta",
+      "maintainer": "Roshan Robotics",
+      "websiteURL": "https://github.com/roshanrobotics",
+      "email": "support@sacchidanandutech.com",
+      "platforms":
+      [
+        {
+          "name": "Sacduino AVR Boards",
+          "architecture": "avr",
+          "version": "1.6.7",
+          "category": "Contributed",
+	  "url": "https://github.com/roshanrobotics/Sacduino/blob/main/Sacduino.zip",
+          "archiveFileName": "Sacduino.zip",
+          "checksum": "SHA-256:9163DDC92D3284D7B4CB8BA8E87F0FF00D278582390D527947B7F051890F32C2",
+          "size": "4202569",
+          "boards": [
+            {
+              "name": "Sacduino AVR Boards."
+            },
+ 	    {
+              "name": "Sacduino nano"
+            }
+          ],
+          "toolsDependencies":
+          [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "7.3.0-atmel3.6.1-arduino7"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.3.0-arduino17"
+            },
+          ]
+        }
+      ],
+      "tools":[]
+    }
+  ]
+}
