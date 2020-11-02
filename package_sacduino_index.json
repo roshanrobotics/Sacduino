@@ -15,8 +15,8 @@
           "category": "Contributed",
 	  "url": "https://github.com/roshanrobotics/Sacduino/blob/main/Sacduino.zip?raw=true",
           "archiveFileName": "Sacduino.zip",
-          "checksum": "SHA-256:2CFD989D738A4F236C6C6C992FA9B992B968C4BE8D4954B4D23B37D374EA1E63",
-          "size": "4202592",
+          "checksum": "SHA-256:0D1334BA1FB084FB6FC5BFF63B2DECEF514692B631143894A8A998FE74AA0C57",
+          "size": "4202628",
           "boards": [
             {
               "name": "Sacduino Boards."
