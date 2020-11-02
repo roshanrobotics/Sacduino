@@ -13,7 +13,7 @@
           "architecture": "avr",
           "version": "1.6.7",
           "category": "Contributed",
-	  "url": "https://github.com/roshanrobotics/Sacduino/blob/main/Sacduino.zip",
+	  "url": "https://github.com/roshanrobotics/Sacduino/blob/main/Sacduino.zip?raw=true",
           "archiveFileName": "Sacduino.zip",
           "checksum": "SHA-256:9163DDC92D3284D7B4CB8BA8E87F0FF00D278582390D527947B7F051890F32C2",
           "size": "4202569",
